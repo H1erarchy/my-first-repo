@@ -1,0 +1,40 @@
+#game{
+    width: 1800px;
+    height: 500px;
+    border: 3px solid black;
+    margin: auto;
+    background-image: url("https://i.pinimg.com/736x/e0/bb/ae/e0bbae55203f566fef5ac9f325ff9573--game-background-mobile-game.jpg");
+    background-size: cover;
+}
+
+#rabbit{
+    width: 100px;
+    height: 90px;
+    position: relative;
+    top: 400px;
+    background-image: url("https://thumbs.dreamstime.com/b/vector-cartoon-illustration-rabbit-vector-cartoon--running-rabbit-isolated-white-background-127275516.jpg");
+    border-style: none;
+    background-size: cover;
+}
+
+#Chaser{
+height: 200px;
+width: 90px;
+position: relative;
+top: 400px;
+background-image: url ("https://l450v.alamy.com/450v/h95r7b/colorful-vector-illustration-of-a-cartoon-farmer-or-redneck-h95r7b.jpg");
+background-size: cover;
+
+}
+
+  h1 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    border-style: solid;
+    border-radius: 8px;
+    border-width: 5px;
+    display:inline-block;
+     
+  }
+  
